@@ -2,3 +2,6 @@ What happens when you initialize a repository? Why do you need to do it?
 	
 	When you initialize a repository a hidden folder is created with the name .git, in this case the dot represents the hidden attribute of the file. Its necessary to do it to start tracking or having the version control of the documents inside the folder we run the command git init.
 	
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	It is different because its right in the middle of both, it doesn't contain the files where i'm actually working on, and doesn´t contain the actual and the previous versions of my job, in this case it keeps only the changes made after the last commit, offering the opportunity to save multiple changed files in order to commit one logical change.
