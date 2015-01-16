@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+	
+	When you initialize a repository a hidden folder is created with the name .git, in this case the dot represents the hidden attribute of the file. Its necessary to do it to start tracking or having the version control of the documents inside the folder we run the command git init.
+	
