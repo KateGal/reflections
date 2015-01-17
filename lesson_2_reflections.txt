@@ -18,3 +18,6 @@ How do the diagrams help you visualize the branch structure?
 
 	they help us because its possible to see want changes have been made over the time.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	the result of merging is one commit refering to 2 parents that come from the lastest commits of each branch. it represents an intersection between two or more paths. 
