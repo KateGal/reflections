@@ -17,3 +17,7 @@ When would you want to use a remote repository rather than keeping all your work
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	
 	There are other version-control tools that we can use to work collaboratively. Although without a tools for version control it would be completely crazy trying to get in sync with all the participants in a work.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	it would be useful when you want to make an experiment on the code but you don't want a broken master besides you want te see what your partners think about that anddecide together to merge it or not with the master branch. 
