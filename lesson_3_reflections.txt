@@ -13,3 +13,7 @@ When would you want to use a remote repository rather than keeping all your work
  What is the benefit of having a copy of the last known state of the remote stored locally?
 
  	by that way it is possible to see how the local changes differ from the last version of the online version on GitHub
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	
+	There are other version-control tools that we can use to work collaboratively. Although without a tools for version control it would be completely crazy trying to get in sync with all the participants in a work.
